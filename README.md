@@ -1,10 +1,6 @@
 # cre5
 menus
 package es.esy.cre5.petagram.pojo;
-
-/**
- * Created by JOSE on 20/09/2016.
- */
 public class Mascota {
 
     private int id;
